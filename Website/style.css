@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(27, 21, 40);
+}
+
+.profile-pic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h3{
+    text-align: center;
+    color: white;
+}
+
+.container {
+    background: linear-gradient(to bottom right, #646464, #1d1d1d);
+    margin: 0% 33%;
+    padding: 20px;
+    padding-bottom: 5%;
+    border-radius: 25px;
+}
+
+.social-links1{
+    padding-top: 1%;
+    padding-left: 5%;
+  display: flex;
+}
+
+.social-links1{
+    margin: 0% 30%;
+    gap: 15px;
+}
+
+.social-links2 {
+    gap: 15px;
+    padding-top: 10%;
+}
+
+.social-btn {
+  display: flex;
+  align-items: center;
+  padding: 20px 20px;
+  background: #000000;
+  color: #ffffff;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background 0.2s;
+}
+
+.social-btn:hover {
+  background: #9f9f9f;
+}
+
+.social-btn i {
+  margin-right: 8px;
+}
+
+.social-icon {
+    display: flex;
+    align-items: center;
+    background: #ffffff00;
+    border-radius: 50%;
+    text-decoration: none;
+    transition: transform 0.3s;
+    margin-right: 10px;
+}
+
+.social-icon:hover {
+    transform: scale(1.10);
+    transition: transform 0.3s;
+}
