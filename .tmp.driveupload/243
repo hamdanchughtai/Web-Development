@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 7fc149b664a00c4e5cd90807547436f1a6a7333a Hamdan Chughtai <hamdanchughtai25@gmail.com> 1758394388 +0500	commit (initial): Add initial HTML, CSS, and JavaScript files for the first website
-7fc149b664a00c4e5cd90807547436f1a6a7333a 8374549cfcdbeb460f3a22930f7c4ac9a69ffa20 Hamdan Chughtai <hamdanchughtai25@gmail.com> 1758426445 +0500	commit: Add initial HTML, CSS, and JavaScript files for the website
-8374549cfcdbeb460f3a22930f7c4ac9a69ffa20 743458f328d48121556192044d838bf77925cfb9 Hamdan Chughtai <hamdanchughtai25@gmail.com> 1758439463 +0500	commit: Add images and index.html for the EP5 project
-743458f328d48121556192044d838bf77925cfb9 125caace8b58d73a66c4516d7e02508370fcc41d Hamdan Chughtai <hamdanchughtai25@gmail.com> 1758443298 +0500	commit: Add initial HTML structure for Images page with three images
-125caace8b58d73a66c4516d7e02508370fcc41d c811db118f69cad8f9a21e2443939b7735b5d571 Hamdan Chughtai <hamdanchughtai25@gmail.com> 1758466865 +0500	commit: Add HTML structure for account creation form
-c811db118f69cad8f9a21e2443939b7735b5d571 636fd23071ab714769a680e7ede1c64876eeccd6 Hamdan Chughtai <hamdanchughtai25@gmail.com> 1758494057 +0500	commit: Refactor code structure for improved readability and maintainability
